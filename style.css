@@ -46,11 +46,8 @@ body{
     #discord-logo{
         position: absolute;
         left: 200px;
-        max-width: 400px;   
-        top: 120px;
-        transition: 0.7s;
-    }
-    
+        max-width: 400px;   /* Homepage */
+}
 }
 
 @media screen and (max-width:791px){
@@ -200,7 +197,7 @@ menu>a{
 
 @media screen and (max-width:593px){
     menu{
-        font-size: 2.7vh;
+        font-size: 2vh;
         transition: 0.7s;
         
     }
